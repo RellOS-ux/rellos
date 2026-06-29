@@ -11,8 +11,6 @@ RellOS is a customizable, rolling-release Linux distribution based on Arch and E
 
 - Easy to build and modify
 
-## How to build
-
 ## Download
 
 **Latest ISO** (3.6 GB): [Download RellOS ISO](https://drive.google.com/file/d/1aqeu-qahf4sMBN_OhqYEqrnNkS91FKnA/view?usp=drive_link)
